@@ -8,6 +8,8 @@ This project recreates the iconic stacked waveform style of the album art from *
 
 It extracts crater edges from a lunar image and converts them into stacked line scans.
 
+The core algorithm for this visualization can be found in `Lunar Pleasures.py`.
+
 ## Inspiration
 
 The original *Unknown Pleasures* cover visualizes radio pulses from a distant pulsar. I wanted to recreate that aesthetic using something more accessible—an image of the Moon.
@@ -18,7 +20,14 @@ Instead of space signals, this project treats **craters and surface features as 
 
 <img width="2160" height="1080" alt="input_output" src="https://github.com/user-attachments/assets/e6074d27-f012-47fe-9013-0e22909bd1f0" />
 
-[Moon image by Gregory H. Revera (CC BY-SA 3.0)](en.wikipedia.org/wiki/File:FullMoon2010.jpg?useskin=vector)
+*Moon image by Gregory H. Revera (CC BY-SA 3.0)*  
+https://en.wikipedia.org/wiki/File:FullMoon2010.jpg
+
+## Original Album Cover
+
+![unknown_pleasures album coevr](https://github.com/user-attachments/assets/5c041c05-e3d3-4552-848f-010e61305ed2)
+
+*Original album cover for* Unknown Pleasures *by Joy Division. Image belongs to its respective copyright holders.*
 
 ## Requirements
 
